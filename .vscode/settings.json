@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    ".env*": "makefile",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "vector": "cpp"
+  }
+}
